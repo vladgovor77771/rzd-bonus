@@ -1,5 +1,9 @@
 # Auto reger for RZD bonus
 
+## Disclaimer
+
+Using this script you break the rules of RZD bonus. Author does not bear consequences for the use of this script by someone else.
+
 ## Prepare
 
 ```
