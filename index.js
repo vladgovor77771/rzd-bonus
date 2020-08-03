@@ -12,7 +12,7 @@ const runWorker = async () => {
     try {
       let person = generatePerson();
       browser = await puppeteer.launch({
-        headless: true,
+        headless: false,
         args: ['--window-size=1920,1080']
       });
       await createUser(browser, person, friendKey);
