@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async-captcha": "^1.0.4",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0",
+    "puppeteer": "^5.2.1",
+    "sleep-promise": "^8.0.1"
+  }
+}
