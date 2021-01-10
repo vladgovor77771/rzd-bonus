@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Auto reger for RZD bonus
 
 ## Disclaimer
